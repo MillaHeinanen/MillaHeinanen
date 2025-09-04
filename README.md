@@ -1,4 +1,4 @@
-## Hi there 👋
+Hello! I'm a student in LAB University of Applied Sciences. I study Bachelor of Engineering in Information and Communications Technology and this profile is for my studies.
 
 <!--
 **MillaHeinanen/MillaHeinanen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
