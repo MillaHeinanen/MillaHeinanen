@@ -1,4 +1,4 @@
-Hello! I'm Milla Heinänen, a student in LAB University of Applied Sciences. I study Bachelor of Engineering in Information and Communications Technology and this profile is for my studies.
+Hello! I'm Milla Heinänen, a student at LAB University of Applied Sciences. I'm studying for a Bachelor of Engineering degree in Information and Communications Technology, and I created this profile for my studies.
 
 <!--
 **MillaHeinanen/MillaHeinanen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
