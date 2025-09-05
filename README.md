@@ -5,7 +5,7 @@ I have studied Information Technology in Haaga-Helia University of Applied Scien
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 -->
-# **Hello world** ![](https://www.animatedimages.org/data/media/465/animated-dalmatian-image-0037.gif)
+# **Hello world!** ![](https://www.animatedimages.org/data/media/465/animated-dalmatian-image-0037.gif)
 
 
 I'm Milla Heinänen, a Bachelor of Engineering student in Information and Communications Technology at *LAB University of Applied Sciences*.
